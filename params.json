@@ -1,0 +1,6 @@
+{
+  "name": "Phonecreator",
+  "tagline": "Amazing Phone Creator",
+  "body": "# PhoneCreator\r\nAmazing Phone Creator\r\n\r\n##How to Download\r\n####After Downloading and unziping it, \r\n* Double Click on \"package.bluj\" (You'll need blu j to open it, or you can use eclipse to c/p the files\r\n* also, javac *.java + java Main will work\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
